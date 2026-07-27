@@ -35,19 +35,6 @@ Prerequisites
 C++17 compatible compiler
 Visual Studio Code / CodeBlocks / g++
 Installation
-
-Clone the repository
-
-git clone https://github.com/<your-username>/Bank-Account-Management-System.git
-cd Bank-Account-Management-System
-
-Compile the project
-
-g++ *.cpp -o BankSystem
-
-Run the application
-
-./BankSystem
 📊 Features
 Feature	Description
 Account Creation	Create Savings and Current accounts
